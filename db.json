@@ -1,5 +1,5 @@
-{
-  [
+[
+  {
     "status": 0,
     "category": "カテゴリ1",
     "itemNumber": 123456789,
@@ -7,8 +7,8 @@
     "available": false,
     "purchaseDate": 20210704,
     "discardDate": 0,
-  ],
-  [
+  },
+  {
     "status": 1,
     "category": "カテゴリ1",
     "itemNumber": 223456789,
@@ -16,8 +16,8 @@
     "available": true,
     "purchaseDate": 20210707,
     "discardDate": 0,
-  ],
-  [
+  },
+  {
     "status": 2,
     "category": "カテゴリ2",
     "itemNumber": 323456789,
@@ -25,8 +25,8 @@
     "available": false,
     "purchaseDate": 20210703,
     "discardDate": 0,
-  ],
-  [
+  },
+  {
     "status": 9,
     "category": "カテゴリ2",
     "itemNumber": 423456789,
@@ -34,8 +34,8 @@
     "available": true,
     "purchaseDate": 20210604,
     "discardDate": 0,
-  ],
-  [
+  },
+  {
     "status": 1,
     "category": "カテゴリ3",
     "itemNumber": 523456789,
@@ -43,8 +43,8 @@
     "available": false,
     "purchaseDate": 20210204,
     "discardDate": 0,
-  ],
-  [
+  },
+  {
     "status": 1,
     "category": "カテゴリ3",
     "itemNumber": 623456789,
@@ -52,5 +52,5 @@
     "available": false,
     "purchaseDate": 20210301,
     "discardDate": 0,
-  ],
-}
+  },
+]
