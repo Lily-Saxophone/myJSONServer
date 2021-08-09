@@ -9,28 +9,24 @@
     "status": 1,
     "category": "カテゴリ1",
     "itemNumber": 223456789,
-    "itemName": "備品2",
-    "available": true
+    "itemName": "備品2"
   },
   {
     "status": 2,
     "category": "カテゴリ2",
     "itemNumber": 323456789,
-    "itemName": "備品3",
-    "available": false
+    "itemName": "備品3"
   },
   {
     "status": 9,
     "category": "カテゴリ2",
     "itemNumber": 423456789,
-    "itemName": "備品4",
-    "available": true
+    "itemName": "備品4"
   },
   {
     "status": 1,
     "category": "カテゴリ3",
     "itemNumber": 523456789,
-    "itemName": "備品5",
-    "available": false
+    "itemName": "備品5"
   }
 ]
