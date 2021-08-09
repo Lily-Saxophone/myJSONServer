@@ -33,12 +33,5 @@
     "itemNumber": 523456789,
     "itemName": "備品5",
     "available": false
-  },
-  {
-    "status": 1,
-    "category": "カテゴリ3",
-    "itemNumber": 623456789,
-    "itemName": "備品6",
-    "available": false
   }
 ]
