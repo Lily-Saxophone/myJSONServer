@@ -3,8 +3,7 @@
     "status": 0,
     "category": "カテゴリ1",
     "itemNumber": 123456789,
-    "itemName": "備品1",
-    "available": false
+    "itemName": "備品1"
   },
   {
     "status": 1,
