@@ -56,7 +56,7 @@
             "itemName": "備品4",
             "available": true,
             "purchaseDate": 20210604,
-            "discardDate": 0
+            "discardDate": 20210810
         },
         {
             "id": 523456789,
@@ -64,6 +64,46 @@
             "category": "カテゴリ3",
             "itemNumber": 523456789,
             "itemName": "備品5",
+            "available": false,
+            "purchaseDate": 20210204,
+            "discardDate": 0
+        },
+        {
+            "id": 523456789,
+            "status": 0,
+            "category": "カテゴリ4",
+            "itemNumber": 523456789,
+            "itemName": "備品6",
+            "available": false,
+            "purchaseDate": 20210204,
+            "discardDate": 0
+        },
+        {
+            "id": 523456789,
+            "status": 2,
+            "category": "カテゴリ1",
+            "itemNumber": 523333789,
+            "itemName": "備品7",
+            "available": false,
+            "purchaseDate": 20210204,
+            "discardDate": 0
+        },
+        {
+            "id": 523456789,
+            "status": 9,
+            "category": "カテゴリ4",
+            "itemNumber": 223476789,
+            "itemName": "備品8",
+            "available": false,
+            "purchaseDate": 20210204,
+            "discardDate": 20210731
+        },
+        {
+            "id": 523456789,
+            "status": 1,
+            "category": "カテゴリ3",
+            "itemNumber": 523456781,
+            "itemName": "備品9",
             "available": false,
             "purchaseDate": 20210204,
             "discardDate": 0
